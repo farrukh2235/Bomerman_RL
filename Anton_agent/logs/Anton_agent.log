@@ -1,0 +1,16 @@
+2024-09-29 20:00:00,660 [Anton_agent_code] INFO: Loading model from saved state.
+2024-09-29 20:00:01,533 [Anton_agent_code] INFO: UP
+2024-09-29 20:00:01,544 [Anton_agent_code] INFO: BOMB
+2024-09-29 20:00:01,645 [Anton_agent_code] INFO: UP
+2024-09-29 20:00:01,744 [Anton_agent_code] INFO: RIGHT
+2024-09-29 20:00:01,850 [Anton_agent_code] INFO: RIGHT
+2024-09-29 20:00:01,951 [Anton_agent_code] INFO: RIGHT
+2024-09-29 20:00:02,052 [Anton_agent_code] INFO: RIGHT
+2024-09-29 20:00:02,151 [Anton_agent_code] INFO: UP
+2024-09-29 20:00:02,251 [Anton_agent_code] INFO: UP
+2024-09-29 20:00:02,353 [Anton_agent_code] INFO: UP
+2024-09-29 20:00:02,452 [Anton_agent_code] INFO: UP
+2024-09-29 20:00:02,553 [Anton_agent_code] INFO: UP
+2024-09-29 20:00:02,650 [Anton_agent_code] INFO: UP
+2024-09-29 20:00:02,752 [Anton_agent_code] INFO: RIGHT
+2024-09-29 20:00:02,851 [Anton_agent_code] INFO: LEFT
